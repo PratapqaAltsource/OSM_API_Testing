@@ -66,7 +66,7 @@ Results Generated
 
 | Total Requests | Failed Tests | Auth | Base URL |
 |---|---|---|---|
-| 20 | 0 ✅ | Bearer JWT | `http://<host>:5000` |
+| 20 | 0 ✅ | Bearer JWT | `http://192.168.1.176:5000` |
 
 ### Admin Module Structure
 
